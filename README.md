@@ -10,7 +10,7 @@ model.
 
 A detailed description of the project is available in the project report which explains the ER and EER diagram along with SQL code for creating the database and few SQL queries to extract relavent information from the database. 
 
-My project report cotains : 
+My project report contains : 
 
 ##### > Description of Entities and Attributes
 ##### > Business rules linking various entities of IKEA
